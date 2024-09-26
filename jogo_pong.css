@@ -1,0 +1,39 @@
+body {
+   
+    background-color: yellowgreen;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+div{
+    position: absolute;
+}
+#raqueteDirt  {
+    width: 2vw;
+    height: 30vh;
+    background-color: #ff0000;
+    border: 2px solid #333;
+    position: absolute;
+    top: 37vh;
+    left: 5vw;
+}
+
+#raqueteEsq {
+    width: 2vw;
+    height: 30vh;
+    background-color: #0004ff;
+    border: 2px solid #333;
+    top: 37vh;
+    left:  90vw;
+    position: absolute;
+}
+#bola{
+    width: 2vw;
+    height: 4vh;
+border-radius: 50%;
+    background-color: black;
+
+    left: 29vw;
+    top: 48vh;
+}
+
